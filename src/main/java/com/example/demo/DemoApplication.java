@@ -15,7 +15,7 @@ public class DemoApplication {
 
     @GetMapping("/")
     public String hello() {
-        return "Hello from Dockerized Spring Boot!";
-        return "Hello from Dockerized zeko!";
+        return "Hello from Dockerized Spring Bootzekoooo!";
+        
     }
 }
